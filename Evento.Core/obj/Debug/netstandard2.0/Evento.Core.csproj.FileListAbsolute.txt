@@ -1,0 +1,9 @@
+C:\AZURE\webapi\Evento.Core\bin\Debug\netstandard2.0\Evento.Core.deps.json
+C:\AZURE\webapi\Evento.Core\bin\Debug\netstandard2.0\Evento.Core.dll
+C:\AZURE\webapi\Evento.Core\bin\Debug\netstandard2.0\Evento.Core.pdb
+C:\AZURE\webapi\Evento.Core\obj\Debug\netstandard2.0\Evento.Core.csprojAssemblyReference.cache
+C:\AZURE\webapi\Evento.Core\obj\Debug\netstandard2.0\Evento.Core.csproj.CoreCompileInputs.cache
+C:\AZURE\webapi\Evento.Core\obj\Debug\netstandard2.0\Evento.Core.AssemblyInfoInputs.cache
+C:\AZURE\webapi\Evento.Core\obj\Debug\netstandard2.0\Evento.Core.AssemblyInfo.cs
+C:\AZURE\webapi\Evento.Core\obj\Debug\netstandard2.0\Evento.Core.dll
+C:\AZURE\webapi\Evento.Core\obj\Debug\netstandard2.0\Evento.Core.pdb

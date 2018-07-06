@@ -1,0 +1,12 @@
+C:\AZURE\webapi\Evento.Infrastructure\bin\Debug\netstandard2.0\Evento.Infrastructure.deps.json
+C:\AZURE\webapi\Evento.Infrastructure\bin\Debug\netstandard2.0\Evento.Infrastructure.dll
+C:\AZURE\webapi\Evento.Infrastructure\bin\Debug\netstandard2.0\Evento.Infrastructure.pdb
+C:\AZURE\webapi\Evento.Infrastructure\bin\Debug\netstandard2.0\Evento.Core.dll
+C:\AZURE\webapi\Evento.Infrastructure\bin\Debug\netstandard2.0\Evento.Core.pdb
+C:\AZURE\webapi\Evento.Infrastructure\obj\Debug\netstandard2.0\Evento.Infrastructure.csprojAssemblyReference.cache
+C:\AZURE\webapi\Evento.Infrastructure\obj\Debug\netstandard2.0\Evento.Infrastructure.csproj.CoreCompileInputs.cache
+C:\AZURE\webapi\Evento.Infrastructure\obj\Debug\netstandard2.0\Evento.Infrastructure.AssemblyInfoInputs.cache
+C:\AZURE\webapi\Evento.Infrastructure\obj\Debug\netstandard2.0\Evento.Infrastructure.AssemblyInfo.cs
+C:\AZURE\webapi\Evento.Infrastructure\obj\Debug\netstandard2.0\Evento.Infrastructure.csproj.CopyComplete
+C:\AZURE\webapi\Evento.Infrastructure\obj\Debug\netstandard2.0\Evento.Infrastructure.dll
+C:\AZURE\webapi\Evento.Infrastructure\obj\Debug\netstandard2.0\Evento.Infrastructure.pdb
